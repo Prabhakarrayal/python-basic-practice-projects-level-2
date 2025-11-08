@@ -3,7 +3,7 @@
 This collection builds on the fundamentals, introducing more complex data structures, logic, and real-world programming concepts. These examples demonstrate the ability to solve practical problems.
 
 ---
-
+ 
 ## 1. 🎲 Guess the Number Game
 This program introduces the `random` module, `while` loops for repeated guessing, and more complex `if-elif-else` logic.
 
